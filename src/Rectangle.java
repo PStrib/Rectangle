@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * Program to find the perimeter, area and diagonal length of a rectangle of dimensions defined by the user
+ * @author Peter Stribblehill
+ * @version 10/10/2022
+ */
 public class Rectangle {
     public static void main(String[] args) {
         Scanner scan =new Scanner (System.in);
